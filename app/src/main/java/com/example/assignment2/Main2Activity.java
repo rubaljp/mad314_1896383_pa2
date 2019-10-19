@@ -37,7 +37,7 @@ public class Main2Activity extends AppCompatActivity {
 
         String name1 ="rahul" ;
         int id1 = 2;
-
+        
 
 
 
